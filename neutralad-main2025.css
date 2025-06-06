@@ -49,13 +49,6 @@ ul {
     margin-right: 5px;
 }
 
-.mbmain-area {
-    background-image: url("img/mbbg1.png");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
 .main-area {
     padding: 0px 0;
     background-image: url("img/bg1.png");
